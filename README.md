@@ -87,7 +87,7 @@ portknock -p 80,443 192.168.0.1
 
 Set more or less concurrent threads
 ```sh
-portknow -t 30 192.168.0.10 
+portknock -t 30 192.168.0.10 
 ```
 
 <!-- LICENSE -->
